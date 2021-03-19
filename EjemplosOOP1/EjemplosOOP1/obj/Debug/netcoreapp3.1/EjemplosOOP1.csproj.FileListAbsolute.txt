@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.exe
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.deps.json
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.runtimeconfig.json
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.dll
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\bin\Debug\netcoreapp3.1\EjemplosOOP1.pdb
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.AssemblyInfo.cs
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.dll
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.pdb
+C:\Users\Flor\source\repos\EjemplosOOP1\EjemplosOOP1\obj\Debug\netcoreapp3.1\EjemplosOOP1.genruntimeconfig.cache
