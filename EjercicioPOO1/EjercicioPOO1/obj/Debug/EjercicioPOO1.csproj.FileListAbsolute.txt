@@ -1,0 +1,10 @@
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\bin\Debug\EjercicioPOO1.exe.config
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\bin\Debug\EjercicioPOO1.exe
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\bin\Debug\EjercicioPOO1.pdb
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.Form1.resources
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.Properties.Resources.resources
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.csproj.GenerateResource.cache
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.exe
+C:\Users\Flor\source\repos\EjercicioPOO1\EjercicioPOO1\obj\Debug\EjercicioPOO1.pdb
